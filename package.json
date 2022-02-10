@@ -31,7 +31,7 @@
     "gulp-uglify": "^3.0.0",
     "gulp-usemin": "^0.3.29",
     "lite-server": "^2.5.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "onchange": "^6.1.1",
     "parallelshell": "^3.0.1",
     "rimraf": "^2.6.2"
